@@ -15,3 +15,11 @@ By scoring customers on these factors, we can segment them into different groups
 <li>Customer segmentation based on RFM scores</li>
 <li>Visualization of RFM segments</li>
 </ul>
+<h3>Data Sources</h3>
+<b>Superstore Sales Data:</b> Contains transactional data for a retail superstore, including details on sales, customers, and purchase dates.
+<h3>Techniques Used</h3>
+<ol>
+<li><b>Data Preprocessing:</b> Cleaning and preparing data for analysis.</li>
+<li><b>RFM Scoring:</b> Calculating recency, frequency, and monetary scores for each customer.</li>
+<li><b>Customer Segmentation:</b> Grouping customers based on their RFM scores.</li>
+<li><b>Visualization:</b> Using plots and charts to visualize customer segments.</li></ol>
